@@ -21,8 +21,8 @@ export const WorkExperience = () => {
             bulletPoints: [
                 "Serving as a distinguished technical advisor and revered mentor, empowering the Reliability Engineering organization.",
                 "Lead the development of an organisation wide, cross cutting, project that ensures the reliability of the Disney+ global platform for high traffic events (content drops, live events).",
-                "Engineered highly efficient APIs in Go and Rust, contributing to improved performance.",
-                "Created multiple tools and command-line interfaces (CLIs) in Go and Rust, streamlining processes, and enhancing productivity, and reducing toil.",
+                "Engineered highly efficient concurrent APIs in Go and Rust, contributing to improved performance.",
+                "Created multiple tools and command-line interfaces (CLIs) in Go and Rust using concurrency paradigms, streamlining processes, and enhancing productivity, and reducing toil.",
                 "Support service teams in the development of their services, providing guidance on best practices, and ensuring that services are reliable, scalable, secure, and observable.",
                 "Lead organisation wide cost optimization efforts, saving the business millions of dollars.",
                 "Acted as a guest lecturer at University Academy '92, delivering lectures on computer science and the technology industry",
@@ -37,7 +37,7 @@ export const WorkExperience = () => {
             report: "VP of Software Engineering",
             bulletPoints: [
                 "Developed a patent pending observability platform, that provides a single pane of glass for all observability metrics from all playback devices globally.",
-                "Developed an AWS service quota monitoring and alerting, ensuring that AWS service quotas do not cause issues in the large Disney Streaming multi tenant AWS accounts.",
+                "Developed an AWS service quota monitoring and alerting, ensuring that AWS service quotas do not cause issues in the large multi tenant AWS accounts operating at Disney Streaming.",
                 "Wrote and taught a course on AWS for Technical Project Managers, teaching them how to use AWS services to build scalable, reliable, and secure applications.",
             ],
         },
@@ -60,6 +60,7 @@ export const WorkExperience = () => {
             report: "Engineering Manager",
             bulletPoints: [
                 "Developed a central monitoring service for the HMRC cloud systems. The monitoring system covered multiple data centres and was responsible for the observability of all HMRC fraud management systems, including application level monitoring and user journeys.",
+                "Received a thank you letter for the contributions and efforts by Pete Schofield: https://drive.google.com/uc?id=1s6uW9VA5VzWqNlfJFRZmFPB7Xq9E222z"
             ],
         },
         {
@@ -89,7 +90,9 @@ export const WorkExperience = () => {
             title: "Senior Enterprise Linux Engineer",
             report: "Engineering Manager",
             description: "Responsible for architecting, building and supporting enterprise customers running large scale linux ecommerce systems.",
-            bulletPoints: [],
+            bulletPoints: [
+                "Awarded the UKFast award for Most Supportive Team Member in 2016 and 2017.",
+            ],
         },
         {
             company: "Navaho Technologies",
