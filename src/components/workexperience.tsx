@@ -17,7 +17,7 @@ export const WorkExperience = () => {
             date: "May 2021 - Present",
             title: "Senior Principal Engineer",
             description: "Leading the technical growth of Reliability Engineering within Disney Streaming.",
-            report: "SVP of Software Engineering",
+            report: "VP of Software Engineering",
             bulletPoints: [
                 "Serving as a distinguished technical advisor and revered mentor, empowering the Reliability Engineering organization.",
                 "Lead the development of an organisation wide, cross cutting, project that ensures the reliability of the Disney+ global platform for high traffic events (content drops, live events).",
@@ -33,7 +33,7 @@ export const WorkExperience = () => {
             company: "Disney Streaming Services",
             date: "April 2020 - May 2021",
             title: "Principal Engineer",
-            description: "Leading the reliability of the Disney+ platform, as the business is in hyperscale subscriber growth",
+            description: "Leading the reliability of the Disney+ platform, as the business is in hyperscale subscriber growth.",
             report: "VP of Software Engineering",
             bulletPoints: [
                 "Developed a patent pending observability platform, that provides a single pane of glass for all observability metrics from all playback devices globally.",
@@ -44,7 +44,7 @@ export const WorkExperience = () => {
         {
             company: "Disney Streaming Services",
             date: "April 2018 - April 2020",
-            title: "Technical Lead",
+            title: "DevOps Engineer / Technical Lead (Consultant)",
             description: "Guided a team of reliability engineers in preparation for the highly anticipated launch of Disney+.",
             report: "VP of Software Engineering",
             bulletPoints: [
@@ -55,11 +55,21 @@ export const WorkExperience = () => {
         {
             company: "HM Revenue and Customs",
             date: "June 2017 - April 2018",
-            title: "Senior DevOps Engineer",
+            title: "Senior DevOps Engineer (Consultant)",
             description: "Developed monitoring and observability systems for the HMRC Digital Platform.",
             report: "Engineering Manager",
             bulletPoints: [
                 "Developed a central monitoring service for the HMRC cloud systems. The monitoring system covered multiple data centres and was responsible for the observability of all HMRC fraud management systems, including application level monitoring and user journeys.",
+            ],
+        },
+        {
+            company: "LinuxAdept",
+            date: "June 2017 - April 2020",
+            title: "Owner",
+            description: "Provided consultancy services to multiple clients, including HMRC, Disney Streaming Services.",
+            report: "N/A",
+            bulletPoints: [
+                "Provided consultancy services to multiple clients, including HMRC, Disney Streaming Services.",
             ],
         },
         {

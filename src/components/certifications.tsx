@@ -41,7 +41,7 @@ export const Certifications = () => {
         },
         {
             certification: "Suse Certified Linux Administrator",
-            date: "2019",
+            date: "2016",
         },
         {
             certification: "Nginx Fundamentals",
