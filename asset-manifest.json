@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robpickerill.me/static/css/main.756af292.css",
+    "main.js": "/robpickerill.me/static/js/main.a1738ccd.js",
+    "static/js/787.e5690223.chunk.js": "/robpickerill.me/static/js/787.e5690223.chunk.js",
+    "index.html": "/robpickerill.me/index.html",
+    "main.756af292.css.map": "/robpickerill.me/static/css/main.756af292.css.map",
+    "main.a1738ccd.js.map": "/robpickerill.me/static/js/main.a1738ccd.js.map",
+    "787.e5690223.chunk.js.map": "/robpickerill.me/static/js/787.e5690223.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.a1738ccd.js"
+  ]
+}
