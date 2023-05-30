@@ -1,11 +1,13 @@
+import ReactGA from 'react-ga4';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
-// Importing the Bootstrap CSS
 import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+ReactGA.initialize('G-B4NN6WDH4L');
 
 
 const root = ReactDOM.createRoot(
