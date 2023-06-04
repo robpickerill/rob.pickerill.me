@@ -16,12 +16,12 @@ export const Education = () => {
         {
             school: "Staffordshire University",
             course: "Higher National Diploma Computer Science",
-            date: "2003 - 2006",
+            date: "2004 - 2007",
         },
         {
             school: "Newcastle College",
             course: "BTEC National Diploma for IT Practitioners",
-            date: "2000 - 2003",
+            date: "2002 - 2004",
         },
         {
             school: "Clayton Hall Business and Enterprise College",
