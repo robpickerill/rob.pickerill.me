@@ -14,7 +14,7 @@ export const WorkExperience = () => {
     const workExperience: WorkExperienceProps[] = [
         {
             company: "Disney Streaming Services",
-            date: "May 2021 - Present",
+            date: "Dec 2021 - Present",
             title: "Senior Principal Engineer",
             description: "Driving the exponential growth of Reliability Engineering at Disney Streaming through transformative technical leadership.",
             report: "VP of Software Engineering",
@@ -31,7 +31,7 @@ export const WorkExperience = () => {
         },
         {
             company: "Disney Streaming Services",
-            date: "April 2020 - May 2021",
+            date: "April 2020 - Dec 2021",
             title: "Principal Engineer",
             description: "Fortifying the reliability of the Disney+ platform amidst unprecedented subscriber growth, driving exceptional user experiences.",
             report: "VP of Software Engineering",
@@ -75,7 +75,7 @@ export const WorkExperience = () => {
         },
         {
             company: "UKFast",
-            date: "June 2016 - June 2018",
+            date: "January 2016 - June 2017",
             title: "Senior DevOps Engineer",
             description: "Developed and implemented an advanced monitoring system spanning five data centers and thousands of systems, ensuring seamless operations.",
             report: "Head of DevOps",
@@ -86,7 +86,7 @@ export const WorkExperience = () => {
         },
         {
             company: "UKFast",
-            date: "June 2016 - June 2018",
+            date: "January 2015 - January 2016",
             title: "Senior Enterprise Linux Engineer",
             report: "Engineering Manager",
             description: "Architected, built, and supported large-scale Linux e-commerce systems for enterprise customers, ensuring optimal performance and reliability.",
